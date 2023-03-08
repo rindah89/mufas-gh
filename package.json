@@ -1,7 +1,7 @@
 {
   "name": "openai-template",
   "version": "1.0.0",
-  "private": true,
+  "private": false,
   "homepage": "https://rindah89.github.io/my-app",
   "dependencies": {
     "@headlessui/react": "^1.4.1",
