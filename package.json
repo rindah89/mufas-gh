@@ -2,7 +2,7 @@
   "name": "openai-template",
   "version": "1.0.0",
   "private": false,
-  "homepage": "https://rindah89.github.io/my-app",
+  "homepage": "https://rindah89.github.io/mufas-gh",
   "dependencies": {
     "@headlessui/react": "^1.4.1",
     "@heroicons/react": "^1.0.3",
